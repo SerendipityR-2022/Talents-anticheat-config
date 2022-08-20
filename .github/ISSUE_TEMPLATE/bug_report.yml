@@ -8,7 +8,7 @@ body:
   attributes:
     label: "描述错误"
     description: >-
-      A clear and concise description of what the bug is.
+      简单明了的描述一下错误..
     placeholder: 'Example: Application exited with code 1'
   validations:
     required: true
