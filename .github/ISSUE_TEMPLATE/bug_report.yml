@@ -65,9 +65,10 @@ body:
 
 
 - type: textarea
+  id: gdxx
   attributes:
-    label: Anything else?
-    description: |
-      Add any other context about the problem here.
+    label: "其他补充?"
+    description: >-
+      在此处填写该问题的任何上下文，可以是更详细的描述.
   validations:
-    required: false
+    required: true
