@@ -15,7 +15,7 @@ body:
 
 - type: textarea
   attributes:
-    label: "日志文件或者视频/图片"
+    label: "test"
     description: |
       The log file called `latestlog.txt` is located under `Android/data/net.kdt.pojavlaunch/files`, `games/PojavLauncher/` or `games/PojavLauncher/.minecraft`. You may need to activate an option in your file explorer to see hidden files and folders. |
       You can also upload here screenshots or videos of the buggy behavior, if possible.
