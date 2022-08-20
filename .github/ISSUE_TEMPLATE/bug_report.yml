@@ -1,4 +1,4 @@
-name: Bug report
+name: "错误报告"
 description: ' Create a report to help us improve '
 title: "[BUG] <Short description>"
 labels: [bug]
