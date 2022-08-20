@@ -9,7 +9,7 @@ body:
     label: "描述错误"
     description: >-
       简单明了的描述一下错误..
-    placeholder: 'Example: Application exited with code 1'
+    placeholder: '示例: xx配置不工作/有回弹/有严重误判'
   validations:
     required: true
 
