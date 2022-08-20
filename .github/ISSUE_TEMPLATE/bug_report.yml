@@ -24,16 +24,15 @@ body:
     required: true
     
 - type: textarea
+  id: fxbz
   attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
-    placeholder: |
-      1. Start PojavLauncher
-      ... *(your set of actions to reproduce the bug)*
-    render: markdown
+    label: "复现行动"
+    description: >-
+      上传带有反作弊误判/回弹的消息提示的日志文件/图像/视频
+    placeholder: '注意：你可以在日志文件里删除一些没必要的信息后上传'
   validations:
     required: true
-
+    
 - type: textarea
   attributes:
     label: Expected Behavior
