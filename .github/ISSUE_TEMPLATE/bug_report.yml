@@ -6,10 +6,10 @@ body:
 - type: textarea
   id: version
   attributes:
-    label: "描述错误"
+    label: "日志文件或 图像/视频"
     description: >-
-      简单明了的描述一下错误..
-    placeholder: '示例: xx配置不工作/有回弹/有严重误判'
+      上传带有误判/回弹/绕过的服务器日志的消息提示，或者图像/视频
+    placeholder: ''
   validations:
     required: true
     
