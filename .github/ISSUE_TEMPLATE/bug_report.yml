@@ -28,8 +28,10 @@ body:
   attributes:
     label: "复现行动"
     description: >-
-      上传带有反作弊误判/回弹的消息提示的日志文件/图像/视频
-    placeholder: '注意：你可以在日志文件里删除一些没必要的信息后上传'
+      重现错误（误判/回弹）的步骤
+    placeholder: |
+      1. 启动服务器和反作弊
+      ... *(您重现错误的一组操作)*
   validations:
     required: true
     
