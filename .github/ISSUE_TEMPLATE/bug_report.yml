@@ -14,6 +14,16 @@ body:
     required: true
     
 - type: textarea
+  id: version
+  attributes:
+    label: "描述错误"
+    description: >-
+      简单明了的描述一下错误..
+    placeholder: '示例: xx配置不工作/有回弹/有严重误判'
+  validations:
+    required: true
+    
+- type: textarea
   attributes:
     label: Steps To Reproduce
     description: Steps to reproduce the behavior.
