@@ -14,7 +14,7 @@ body:
     required: true
     
 - type: textarea
-  id: version
+  id: logs
   attributes:
     label: "描述错误"
     description: >-
