@@ -36,30 +36,33 @@ body:
     required: true
     
 - type: textarea
+  id: yqxw
   attributes:
-    label: Expected Behavior
-    description: A concise description of what you expected to happen.
-    placeholder: 'Example: I expect the game to launches'
+    label: "预期行为"
+    description: >-
+      对您期望发生的事情进行简单描述
+    placeholder: '示例: 我希望该配置没有误判/回弹/绕过'
   validations:
     required: true
 
 - type: textarea
+  id: cpu
   attributes:
-    label: Platform
-    description: |
-      Examples:
-        - **Device model**: Mi 8 Pro 8/128G
-        - **CPU architecture**: aarch64
-        - **Android version**: 10
-        - **PojavLauncher version**: [Latest Release || version 3.3.1.1_rel_20210206 ]
-    value: |
-        - Device model: 
-        - CPU architecture: 
-        - Android version: 
-        - PojavLauncher version: 
-    render: markdown
+    label: "平台"
+    description: >-
+      例子:
+        - **服务器核心**: spigot/purpur/paper
+        - **服务器类型**: 生存/小游戏/角色扮演（RPG）
+        - **服务器版本**: 1.8.8/1.12.2/1.17/1.19
+        - **反作弊配置版本**: [NoCheatPlus || version-1.0.0 ]
+    placeholder: |
+      - 服务器核心: 
+        - 服务器类型: 
+        - 服务器版本: 
+        - 反作弊配置版本: 
   validations:
     required: true
+
 
 - type: textarea
   attributes:
