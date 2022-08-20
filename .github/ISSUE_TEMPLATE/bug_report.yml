@@ -1,70 +1,70 @@
-name: Bug report
-description: ' Create a report to help us improve '
-title: "[BUG] <Short description>"
+name: 错误报告
+description: ' 创建一个错误报告以帮助我改进 '
+title: "[BUG] <简短描述>"
 labels: [bug]
 body:
 - type: textarea
   id: version
   attributes:
-    label: Describe the bug
+    label: 填写错误
     description: >-
-      A clear and concise description of what the bug is.
-    placeholder: 'Example: Application exited with code 1'
+      简单明了的描述一下错误.
+    placeholder: '实例: xx配置不工作/有回弹/有严重误判'
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: The log file and images/videos
+    label: 日志文件或 图像/视频
     description: |
-      The log file called `latestlog.txt` is located under `Android/data/net.kdt.pojavlaunch/files`, `games/PojavLauncher/` or `games/PojavLauncher/.minecraft`. You may need to activate an option in your file explorer to see hidden files and folders. |
-      You can also upload here screenshots or videos of the buggy behavior, if possible.
+      上传你日志文件里反作弊误判/回弹/绕过的消息提示. |
+      你也可以上传误判/回弹/绕过的视频或图像.
       
-      Tip: You can attach files by clicking this area to highlight it and then dragging files in or select them on 🖼 option at the toolbar.
+      提示: 你可以通过单击此区域将其突出显示.然后将文件拖入或在工具栏上的🖼选项上来选择上传文件
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
+    label: 复现步骤
+    description: 重现错误的步骤.
     placeholder: |
-      1. Start PojavLauncher
-      ... *(your set of actions to reproduce the bug)*
+      1. 启动服务器和反作弊
+      ... *(您重现错误的一组操作)*
     render: markdown
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: Expected Behavior
-    description: A concise description of what you expected to happen.
-    placeholder: 'Example: I expect the game to launches'
+    label: 预期行为
+    description: 对您期望发生的事情进行简单描述
+    placeholder: '实例: 我希望服务器没有误判/回弹/绕过'
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: Platform
+    label: 平台
     description: |
-      Examples:
-        - **Device model**: Mi 8 Pro 8/128G
-        - **CPU architecture**: aarch64
-        - **Android version**: 10
-        - **PojavLauncher version**: [Latest Release || version 3.3.1.1_rel_20210206 ]
+      例子:
+        - **服务器核心**: spigot/purpur/paper
+        - **服务器类型**: 生存/小游戏/角色扮演（RPG）
+        - **服务器版本**: 1.8.8/1.12.2/1.17/1.19
+        - **反作弊配置版本**: [NoCheatPlus || version-1.0.0 ]
     value: |
-        - Device model: 
-        - CPU architecture: 
-        - Android version: 
-        - PojavLauncher version: 
+        - 服务器核心: 
+        - 服务器类型: 
+        - 服务器版本: 
+        - 反作弊配置版本: 
     render: markdown
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: Anything else?
+    label: 其他补充?
     description: |
-      Add any other context about the problem here.
+      在此处填写该问题的任何上下文，可以是更详细的描述.
   validations:
     required: false
