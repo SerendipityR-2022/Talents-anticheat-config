@@ -3,14 +3,18 @@
 > ## 这只是我使用在自己服务器上的配置
 >
 > 可能在其他服务器会有误判，甚至可能不阻止你服务器里面的黑客
+> 
 > 遇到任何因为本配置的绕过可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues)
 > 
 > 如果你有问题可以自己修改配置进行改良
+> 
 > （但不要发布并声称是你的配置）
 > 
 > ---
 > 如果你是**新手小白服主**不知道怎么调试配置
+> 
 >带上友好的态度 [联系我](https://qm.qq.com/cgi-bin/qm/qr?k=R0L6OiGpg-kWrQqN9aLLuVgArLZyGrFg&noverify=0)!
+>
 >我会**免费**帮助你
 > 
 > 链接不起作用？
