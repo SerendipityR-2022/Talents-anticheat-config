@@ -4,7 +4,7 @@ title: "[新配置] <简单说明>"
 labels: [enhancement]
 body:
 - type: textarea
-  id: version
+  id: ofbug
   attributes:
     label: 此请求是否与错误有关?
     description: |
@@ -14,6 +14,7 @@ body:
     required: false
 
 - type: textarea
+  id: new
   attributes:
     label: 描述请求.
     description: |
@@ -23,6 +24,7 @@ body:
     required: false
 
 - type: textarea
+  id: more
   attributes:
     label: Anything else?
     description: |
