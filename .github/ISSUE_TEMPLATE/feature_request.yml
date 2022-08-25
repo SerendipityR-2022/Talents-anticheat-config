@@ -26,8 +26,8 @@ body:
 - type: textarea
   id: more
   attributes:
-    label: Anything else?
+    label: 还有别的吗？?
     description: |
-      Add any other context about the problem here.
+      在此处添加有关该问题的任何其他上下文。
   validations:
     required: false
