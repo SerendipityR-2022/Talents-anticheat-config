@@ -1,5 +1,5 @@
-name: Feature request
-description: 'Ask for new features.'
+name: 申请配置
+description: '申请你想要的新的反作弊搭配组合的配置.'
 title: "[F-Req] <Short description>"
 labels: [enhancement]
 body:
