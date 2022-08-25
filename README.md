@@ -11,7 +11,7 @@
 > （但不要发布并声称是你的配置）
 > 
 > ---
-> 如果你是**新手小白服主**不知道怎么调试配置
+> 如果你是**新手小白服主**不知道怎么安装配置
 > 
 >带上友好的态度 [联系我](https://qm.qq.com/cgi-bin/qm/qr?k=R0L6OiGpg-kWrQqN9aLLuVgArLZyGrFg&noverify=0)!
 >
