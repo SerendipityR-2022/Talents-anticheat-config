@@ -4,7 +4,7 @@
 >
 > 可能在其他服务器会有误判，甚至可能不阻止你服务器里面的黑客
 > 
-> 遇到任何因为本配置的绕过可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues)
+> 遇到任何因为本配置的绕过可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)
 > 
 > 如果你有问题可以自己修改配置进行改良
 > 
