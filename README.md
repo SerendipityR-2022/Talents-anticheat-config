@@ -76,4 +76,4 @@
 如果可以，请分享这些配置库并积极的向我报告使用反馈
 
 ### ？没有你想要的反作弊配置 ？
-[点击这里](https://github.com/TalentsDX/Talents-anticheat-config/issues)向我提交，我会在一定时间内添加你想要的反作弊配置！
+[点击这里](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)向我提交，我会在一定时间内添加你想要的反作弊配置！
