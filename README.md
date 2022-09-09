@@ -41,7 +41,7 @@
  - [Spartan](https://www.spigotmc.org/resources/spartan-advanced-anti-cheat-cheat-detection-hack-blocker-1-7-1-19-2-10-summer-sale.25638/)
  - [AntiAura](https://www.spigotmc.org/resources/antiaura-%C2%BB-reliable-cheat-detection-%C2%BB-anti-cheat-plugin.1368/update?update=16048)（可能不会继续）
  - [Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19.83626/)
- - [AntiCheatReloaded](https://www.spigotmc.org/resources/anticheatreloaded.23799/)（也许吧）
+ - [AntiCheatReloaded](https://www.spigotmc.org/resources/anticheatreloaded.23799/)（在它更新1.19之后）
  - [SoaromaSAC](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system-for-java-bedrock.87702/)(我喜欢，因为支持geyser)
  - [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/)
  
