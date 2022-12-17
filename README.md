@@ -1,10 +1,10 @@
 # ⚠️前言 ⚠️
 
-> ## 这只是我使用在自己服务器上的配置
+> ## 这永远只是我使用在自己服务器上的配置
 >
 > 可能在其他服务器会有误判，甚至可能不阻止你服务器里面的黑客
 > 
-> 遇到任何因为本配置的绕过可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)
+> 遇到任何因为**本配置的绕过**可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)
 > 
 > 如果你有问题可以自己修改配置进行改良
 > 
@@ -44,6 +44,7 @@
  - [AntiCheatReloaded](https://www.spigotmc.org/resources/anticheatreloaded.23799/)（在它更新1.19之后）
  - [SoaromaSAC](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system-for-java-bedrock.87702/)(支持geyser，但性能不是很好)
  - [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/)
+ - [Hawk]（也许会吧）
  
 ---
 ### 🔧如何安装🔧
